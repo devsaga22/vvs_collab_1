@@ -1,0 +1,18 @@
+# --- Python & Environment ---
+.venv/
+__pycache__/
+*.pyc
+.env
+
+# --- Data (Ignore the entire raw data folder) ---
+01_proj_design/
+*.zip
+*.txt
+*.csv
+*.parquet
+02_de_tasks/parquet_output/
+*.parquet
+
+# --- IDE Config ---
+.vscode/
+.idea/

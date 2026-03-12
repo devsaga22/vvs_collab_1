@@ -1,0 +1,20 @@
+2026-03-11 21:05:44,615 - INFO - Schema 'silver' verified and its in the db.
+2026-03-11 21:05:48,889 - INFO - Silver Table Created: silver_test_fd001 with 18 active sensors.
+2026-03-11 21:05:58,101 - INFO - Silver Table Created: silver_test_fd002 with 21 active sensors.
+2026-03-11 21:06:02,294 - INFO - Silver Table Created: silver_test_fd003 with 19 active sensors.
+2026-03-11 21:06:13,173 - INFO - Silver Table Created: silver_test_fd004 with 21 active sensors.
+2026-03-11 21:06:18,515 - INFO - Silver Table Created: silver_train_fd001 with 17 active sensors.
+2026-03-11 21:06:32,324 - INFO - Silver Table Created: silver_train_fd002 with 21 active sensors.
+2026-03-11 21:06:38,397 - INFO - Silver Table Created: silver_train_fd003 with 18 active sensors.
+2026-03-11 21:06:53,952 - INFO - Silver Table Created: silver_train_fd004 with 21 active sensors.
+2026-03-12 20:27:13,116 - INFO - Schema 'silver' verified and its in the db.
+2026-03-12 20:28:08,525 - INFO - Schema 'silver' verified and its in the db.
+2026-03-12 20:30:59,844 - INFO - Schema 'silver' verified and its in the db.
+2026-03-12 20:31:02,631 - INFO - Parquet file created for silver_test_fd001 at ./parquet_output/silver_test_fd001.parquet
+2026-03-12 20:31:05,981 - INFO - Parquet file created for silver_test_fd002 at ./parquet_output/silver_test_fd002.parquet
+2026-03-12 20:31:07,305 - INFO - Parquet file created for silver_test_fd003 at ./parquet_output/silver_test_fd003.parquet
+2026-03-12 20:31:10,621 - INFO - Parquet file created for silver_test_fd004 at ./parquet_output/silver_test_fd004.parquet
+2026-03-12 20:31:12,123 - INFO - Parquet file created for silver_train_fd001 at ./parquet_output/silver_train_fd001.parquet
+2026-03-12 20:31:16,730 - INFO - Parquet file created for silver_train_fd002 at ./parquet_output/silver_train_fd002.parquet
+2026-03-12 20:31:18,600 - INFO - Parquet file created for silver_train_fd003 at ./parquet_output/silver_train_fd003.parquet
+2026-03-12 20:31:23,630 - INFO - Parquet file created for silver_train_fd004 at ./parquet_output/silver_train_fd004.parquet
