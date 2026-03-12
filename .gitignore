@@ -5,6 +5,7 @@ __pycache__/
 .env
 
 # --- Data (Ignore the entire raw data folder) ---
+!01_proj_design/*.pdf
 01_proj_design/
 *.zip
 *.txt
